@@ -1,7 +1,7 @@
 {
   "entryAssembly": "Portfolio",
   "resources": {
-    "hash": "sha256-HmHxnc5hwplU1Qg+S4CWuHAf9Hhhg9OUlFZa7DYpVG4=",
+    "hash": "sha256-dVgbM4FJYcJXj6dQng5zAFYP4+5ydBEvTH7PAopxSEk=",
     "runtime": {
       "dotnet.6.0.27.qy2cq0s421.js": "sha256-26GREQBtzf9waPgLefTus1ODJdcs93wyAEl2cY4aiD0=",
       "dotnet.timezones.blat": "sha256-Hu3yTR07LZhOqoVr6q2tVZ2tv621ulhIVgZRupSxU6A=",
@@ -27,8 +27,8 @@
       "Microsoft.JSInterop.dll": "sha256-bmqWiPkPER3Lm2rUVNmldo25QNbbtY45rMZ+PV0KM9I=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-uvUqnvAXWmgS4S6ft3N+AjtO7/8PSNTQpPmp4USUa5Y=",
       "MudBlazor.dll": "sha256-oV5evFPPiCC6XFvrJAIop2T9eieJTfVxZkyo72WLRHM=",
-      "Portfolio.dll": "sha256-WpyM8oaGUbaUqKLHPh8S7D+CKcc8mb64BQtXv1Nn8/A=",
-      "PortfolioShared.dll": "sha256-FoZ2LAlCkpFvMtJe7bZ0H1YanASDwaKXdJYX513PZ9A=",
+      "Portfolio.dll": "sha256-u89rRywpZEuOWuhX0E3J2SnAvN2xMwmGcm28qyKbSGk=",
+      "PortfolioShared.dll": "sha256-Vlu75UFLOXs1yWMJvABq7WTIoZ8oVosGzx5QRQsxm54=",
       "System.Collections.Concurrent.dll": "sha256-QR7WXowzb+QArkxF/U+NozyWjOlTK9hAdiQ+Rl4hlJo=",
       "System.Collections.dll": "sha256-VspSB2ftzC2/26kY4UrzYcrrj/HjoMVgpTsgY/apG+M=",
       "System.ComponentModel.Annotations.dll": "sha256-sdGDbiRd9EQsUSxQG19SlFgOuEPDJ9effBwZFcWutM0=",
